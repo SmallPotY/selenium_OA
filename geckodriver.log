@@ -1,0 +1,516 @@
+1529112757019	geckodriver	INFO	geckodriver 0.20.1
+1529112757031	geckodriver	INFO	Listening on 127.0.0.1:60460
+1529112759114	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.EpAdEJ8JGGIY"
+1529112762197	Marionette	INFO	Listening on port 60471
+1529112762383	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 22868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 22868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 5208, Chrome_ChildThread] WARNING: pipe error: 109: f
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529112897324	geckodriver	INFO	geckodriver 0.20.1
+1529112897356	geckodriver	INFO	Listening on 127.0.0.1:61283
+1529112899928	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.V0i62rJywhNL"
+1529112903121	Marionette	INFO	Listening on port 61292
+1529112903547	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529113058062	geckodriver	INFO	geckodriver 0.20.1
+1529113058094	geckodriver	INFO	Listening on 127.0.0.1:62961
+1529113060747	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.WqumPBaO8Vey"
+1529113064167	Marionette	INFO	Listening on port 62970
+1529113064376	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.6.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.6.js, line 556: unreachable code after return statement
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+[Child 23644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23644, Chrome_ChildThre[Child 24276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24276, Chrome_ChildThread] W
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529113164401	geckodriver	INFO	geckodriver 0.20.1
+1529113164413	geckodriver	INFO	Listening on 127.0.0.1:63595
+1529113167174	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.07tj6vXyxXRb"
+1529113170247	Marionette	INFO	Listening on port 63608
+1529113170331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 23168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/[Child 24132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24132, Chrome_ChildThread] WARNING: pipe error: 109: file z
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529113593163	geckodriver	INFO	geckodriver 0.20.1
+1529113593174	geckodriver	INFO	Listening on 127.0.0.1:54002
+1529113596006	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.EtJRiYkz6QTL"
+1529113598505	Marionette	INFO	Listening on port 54015
+1529113599122	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 11788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529114067963	geckodriver	INFO	geckodriver 0.20.1
+1529114067973	geckodriver	INFO	Listening on 127.0.0.1:60334
+1529114070800	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.PQiMW8cHgWKR"
+1529114073336	Marionette	INFO	Listening on port 60343
+1529114073919	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 21956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10556, Chrome_Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529114410402	geckodriver	INFO	geckodriver 0.20.1
+1529114410412	geckodriver	INFO	Listening on 127.0.0.1:54654
+1529114413252	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.01ZtZiU86nMG"
+1529114415501	Marionette	INFO	Listening on port 54667
+1529114416401	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529115999059	geckodriver	INFO	geckodriver 0.20.1
+1529115999074	geckodriver	INFO	Listening on 127.0.0.1:65061
+1529116001827	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.2L0TYkwk8hq7"
+1529116004275	Marionette	INFO	Listening on port 65069
+1529116004958	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 20792, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+elp.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 20248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20248, Chrome_ChildThread] WARNING: p[Child 19368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19368, Chrome_ChildThread] WARNING: pipe
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529117232580	geckodriver	INFO	geckodriver 0.20.1
+1529117232592	geckodriver	INFO	Listening on 127.0.0.1:62357
+1529117235404	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.uSeRrilqfBuf"
+1529117237791	Marionette	INFO	Listening on port 62365
+1529117238518	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 22452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/co[Parent 22452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv[Parent 19580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_w
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529120401784	geckodriver	INFO	geckodriver 0.20.1
+1529120401793	geckodriver	INFO	Listening on 127.0.0.1:54645
+1529120404624	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.b3o6hk7EC0OB"
+1529120407251	Marionette	INFO	Listening on port 54653
+1529120407744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 23328, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 23328, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+1529120758518	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1529121927098	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 24772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 24772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 24772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+query-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 17788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21700, Chrome_ChildThread] WARNING: pipe[Parent 12696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 34[Parent 22824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/b
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529130423573	geckodriver	INFO	geckodriver 0.20.1
+1529130423583	geckodriver	INFO	Listening on 127.0.0.1:59062
+1529130426354	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.5R6QuFWAzsvC"
+1529130428781	Marionette	INFO	Listening on port 59075
+1529130429475	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 12976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7620, Chrome_ChildThread] [Child 20552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20552, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529131005641	geckodriver	INFO	geckodriver 0.20.1
+1529131005654	geckodriver	INFO	Listening on 127.0.0.1:53334
+1529131008462	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.kyOSh5kkRZsh"
+1529131011064	Marionette	INFO	Listening on port 53347
+1529131011579	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 21560, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26616, Chrome_ChildThread] WARNING: pipe error: 109: fi[le z:/build/build/src/ipc/chrChild 26036, Chromomium/src/ce_hrome/common/ChildThipc_channel_win.cread] WARNING: pipe error: 10c, lin9: file z:/build/build/src/ipc/e 346
+chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 15012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529132587844	geckodriver	INFO	geckodriver 0.20.1
+1529132587856	geckodriver	INFO	Listening on 127.0.0.1:59935
+1529132590607	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.zVU1oj6N1V4j"
+1529132593109	Marionette	INFO	Listening on port 59958
+1529132593720	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 22676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15612, Chrome_ChildThread] WARNING: pipe error: 109: f[Parent 17100, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529135313979	geckodriver	INFO	geckodriver 0.20.1
+1529135313992	geckodriver	INFO	Listening on 127.0.0.1:50973
+1529135316758	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.j3JohwjHOHjA"
+1529135319007	Marionette	INFO	Listening on port 51021
+1529135319873	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 5136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/bui[GPU 25136, Chrome_ChildThread] WARNING: pipe error: 109: fil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+53048
+1529136866108	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1529136957574	geckodriver	INFO	geckodriver 0.20.1
+1529136957582	geckodriver	INFO	Listening on 127.0.0.1:53829
+1529136960386	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.oxT7BmrsVDTp"
+1529136962752	Marionette	INFO	Listening on port 53845
+1529136963505	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 25668, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22684[Child 26356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26356, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529143115248	geckodriver	INFO	geckodriver 0.20.1
+1529143115258	geckodriver	INFO	Listening on 127.0.0.1:58004
+1529143118088	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.RpdO45ykFM0Y"
+1529143120630	Marionette	INFO	Listening on port 58012
+1529143121225	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529147646849	geckodriver	INFO	geckodriver 0.20.1
+1529147646863	geckodriver	INFO	Listening on 127.0.0.1:53776
+1529147649566	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.k2wBhiGN9FEb"
+1529147652273	Marionette	INFO	Listening on port 53784
+1529147652691	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://help.honotop.com/JQuery/JQuery.js, line 7: TypeError: document.body is null
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 16948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16948, Chrome_ChildThr[Child 24640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24640, Chrome*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529148458386	geckodriver	INFO	geckodriver 0.20.1
+1529148458401	geckodriver	INFO	Listening on 127.0.0.1:55827
+1529148475805	geckodriver	INFO	geckodriver 0.20.1
+1529148475816	geckodriver	INFO	Listening on 127.0.0.1:55852
+1529148478563	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.SHDCa48GAmcN"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1529148481462	Marionette	INFO	Listening on port 55862
+1529148481683	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 23380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8540, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26460, Chrome_ChildThread] WARNING: pipe error: 1*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529148566058	geckodriver	INFO	geckodriver 0.20.1
+1529148566071	geckodriver	INFO	Listening on 127.0.0.1:56008
+1529148568828	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.ekjEfI3BnAgT"
+1529148571595	Marionette	INFO	Listening on port 56016
+1529148571925	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+1529148572003	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 26588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26588, Chrome_ChildThread] WARNING: pipe error: 109: [Parent 18924, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 614))
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 408: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 408: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/ProfileAge.jsm, line 174: Error: Unable to fetch oldest profile entry: Error: OS.File has been shut down. Rejecting request to DirectoryIterator_prototype_next
+JavaScript error: resource://gre/modules/ProfileAge.jsm, line 174: Error: Unable to fetch oldest profile entry: Error: OS.File has been shut down. Rejecting request to DirectoryIterator_prototype_next
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529148576167	geckodriver	INFO	geckodriver 0.20.1
+1529148576177	geckodriver	INFO	Listening on 127.0.0.1:56048
+1529148622476	geckodriver	INFO	geckodriver 0.20.1
+1529148622488	geckodriver	INFO	Listening on 127.0.0.1:56126
+1529148625184	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.06TK38i1e9Hl"
+1529148628045	Marionette	INFO	Listening on port 56137
+1529148628320	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 26252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17608, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6124, Chrom*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529148712215	geckodriver	INFO	geckodriver 0.20.1
+1529148712224	geckodriver	INFO	Listening on 127.0.0.1:56304
+1529148714926	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.cDQsl6KonTVC"
+1529148717637	Marionette	INFO	Listening on port 56318
+1529148718040	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 21228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529148760308	geckodriver	INFO	geckodriver 0.20.1
+1529148760321	geckodriver	INFO	Listening on 127.0.0.1:56418
+1529148763025	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.pT7YDgCESvmh"
+1529148765816	Marionette	INFO	Listening on port 56437
+1529148766138	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 18564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13100, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529197283141	geckodriver	INFO	geckodriver 0.20.1
+1529197283152	geckodriver	INFO	Listening on 127.0.0.1:56382
+1529197286004	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.pzIIK6B51oYB"
+1529197289220	Marionette	INFO	Listening on port 56398
+1529197289655	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 19224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529198373888	geckodriver	INFO	geckodriver 0.20.1
+1529198373902	geckodriver	INFO	Listening on 127.0.0.1:59372
+1529198376693	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.R4kPE0FnhO6P"
+1529198379798	Marionette	INFO	Listening on port 59388
+1529198379846	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1529200063705	geckodriver	INFO	geckodriver 0.20.1
+1529200063718	geckodriver	INFO	Listening on 127.0.0.1:64078
+1529200066533	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.ZbdoAAsYkvlH"
+1529200070110	Marionette	INFO	Listening on port 64094
+1529200070155	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 17040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529201307890	geckodriver	INFO	geckodriver 0.20.1
+1529201307900	geckodriver	INFO	Listening on 127.0.0.1:50411
+1529201310640	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.d1hn4MrUCCtS"
+1529201314896	Marionette	INFO	Listening on port 50423
+1529201315152	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 26112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 14492
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529201495183	geckodriver	INFO	geckodriver 0.20.1
+1529201495194	geckodriver	INFO	Listening on 127.0.0.1:50940
+1529201498021	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.BsoV1ucHE7T4"
+1529201501187	Marionette	INFO	Listening on port 50959
+1529201501240	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 17284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 26440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529202301522	geckodriver	INFO	geckodriver 0.20.1
+1529202301533	geckodriver	INFO	Listening on 127.0.0.1:53171
+1529202304296	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.vXGfRtwALCzF"
+1529202307772	Marionette	INFO	Listening on port 53179
+1529202308074	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1529202618930	geckodriver	INFO	geckodriver 0.20.1
+1529202618947	geckodriver	INFO	Listening on 127.0.0.1:53764
+1529202621722	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.LDO0NO4PSsWz"
+1529202624704	Marionette	INFO	Listening on port 53781
+1529202624860	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529203153220	geckodriver	INFO	geckodriver 0.20.1
+1529203153264	geckodriver	INFO	Listening on 127.0.0.1:55251
+1529203155898	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.i0hcFSzlKUDm"
+1529203159852	Marionette	INFO	Listening on port 55260
+1529203160067	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 16544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23476, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529203435447	geckodriver	INFO	geckodriver 0.20.1
+1529203435459	geckodriver	INFO	Listening on 127.0.0.1:56062
+1529203438041	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.7dLV1PZPJ6UR"
+1529203441253	Marionette	INFO	Listening on port 56070
+1529203441480	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 25320, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 25320, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 25320, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529203756262	geckodriver	INFO	geckodriver 0.20.1
+1529203756275	geckodriver	INFO	Listening on 127.0.0.1:56987
+1529203758912	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.BfTUnwSLO3lV"
+1529203762032	Marionette	INFO	Listening on port 57002
+1529203762545	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6924, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529205745920	geckodriver	INFO	geckodriver 0.20.1
+1529205745931	geckodriver	INFO	Listening on 127.0.0.1:59596
+1529205748703	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.japeJ6YiNCfy"
+1529205751528	Marionette	INFO	Listening on port 59605
+1529205751817	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 17204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17204, Chro[Child 2008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529205824646	geckodriver	INFO	geckodriver 0.20.1
+1529205824660	geckodriver	INFO	Listening on 127.0.0.1:59840
+1529205827415	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.q8UBqj99P0GN"
+1529205830459	Marionette	INFO	Listening on port 59848
+1529205830854	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 17224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529205878203	geckodriver	INFO	geckodriver 0.20.1
+1529205878216	geckodriver	INFO	Listening on 127.0.0.1:59993
+1529205880826	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SamllPot\\AppData\\Local\\Temp\\rust_mozprofile.JbvqP5IFy9J3"
+1529205884194	Marionette	INFO	Listening on port 60010
+1529205884314	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://help.honotop.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
