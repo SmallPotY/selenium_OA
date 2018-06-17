@@ -128,9 +128,9 @@ class Storage_binding:
     def login(self):
         self.driver.get("http://help.honotop.com/index.html")  # 打开登陆页面
         self.elem = self.driver.find_element_by_xpath('//*[@id="name"]')  # 查找用户输入框
-        self.elem.send_keys('000049')  # 模拟输入
+        self.elem.send_keys('***')  # 模拟输入
         self.elem = self.driver.find_element_by_xpath('//*[@id="pass"]')
-        self.elem.send_keys('111111')
+        self.elem.send_keys('***')
         self.driver.find_element_by_xpath('//*[@id="login"]').click()  # 模拟点击
         sleep(1)
 
