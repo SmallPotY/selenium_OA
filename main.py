@@ -12,7 +12,7 @@ def get_item(b_time, e_time):
         'Host': 'help.honotop.com',
         'Referer': 'http://help.honotop.com/SettleManager/SettleBook.html?v=817988',
         'Origin': 'http://help.honotop.com',
-        'Cookie': 'CompanySta=%5b%5d; User=%7B%22S%22%3A0%2C%22C%22%3A%22E000049%22%2C%22N%22%3A%22%E6%9D%A8%E6%9D%B0%22%2C%22G%22%3A%22000049%22%2C%22E%22%3A%22734e90b8-4ece-4f9e-915a-44b78f0561c7%22%2C%22PC%22%3A%22P000004%22%2C%22PN%22%3A%22%E5%8D%95%E8%AF%81%22%2C%22RC%22%3A%22R000021%3BR000004%22%2C%22M%22%3A%22jyang%40honocare.com%22%7D',
+        'Cookie': '****',
         'Accept': 'application/json, text/javascript, */*; q=0.01',
         'Accept-Encoding': 'gzip, deflate',
         'Accept-Language': 'zh-CN,zh;q=0.9',
